@@ -5,7 +5,7 @@ import { Heading, Select } from "@chakra-ui/react";
 import { Stack, useMediaQuery } from "@chakra-ui/react";
 import Quote from "./components/Quote";
 import Loader from "./components/Loader";
-import { useFetchData } from "./utils/useFetchData";
+import { useFetchData } from "./customHooks/useFetchData";
 
 function App() {
   const [input, setInput] = useState("");

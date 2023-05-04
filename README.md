@@ -16,6 +16,8 @@ This is a React application that displays inspirational quotes from various cate
 
 <pre></pre>
 
+**Click [here](https://main--inspirational-random-quotes.netlify.app/) to check the demo.**
+
 **Installation**
 
 To run this project locally, you need to have Node.js installed on your system. Clone the repository and navigate to the project directory. Then run the following command to install the dependencies:
