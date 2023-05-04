@@ -1,4 +1,3 @@
-import React from "react";
 import { Image, Box, Stack, Heading } from "@chakra-ui/react";
 import LoaderIcon from "../assets/Gear-0.9s-200px.gif";
 
